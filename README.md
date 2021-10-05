@@ -1,7 +1,7 @@
 <h1 align="center"> 🎨 Themes for Windows 11 😄</h1>
 
 <p align="center">
-    <img src="./src/image.png">
+    <img src="./image/image.png">
 </p>
 
 <p align="center">
