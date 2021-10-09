@@ -48,4 +48,5 @@ The following tools were used in the construction of the project:
 Developed by <a href="https://www.linkedin.com/in/danhpaiva/" target="_blank">Daniel Paiva</a>
 
 <h2 id=licence>🆓 Licence</h2>
+View the license for this project 
 <a href="https://github.com/danhpaiva/windows11-themes/blob/main/LICENSE" target="_blank">MIT</a>
