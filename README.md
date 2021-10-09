@@ -22,9 +22,10 @@ The aim of the project is to share the themes I use on Windows 10.<br>
 The Purple theme was made to be more generic. I love that.
 
 Included themes:
-- Flamingo Theme <!-- #CC3D29 -->
+- Flamingo Theme
 - Gnome Theme
-- Purple Theme <!-- #60548C -->
+- MacTiger
+- Purple Theme
 
 <h2 id=instalacao>:clipboard: Installation</h2>
 
